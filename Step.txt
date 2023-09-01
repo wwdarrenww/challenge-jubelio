@@ -1,0 +1,15 @@
+1.Import selenium webdriver to vscode
+2.Call ChromeOptions from webdriver
+3.To prevent auto close browser, add experimental_option
+4.Call driver Chrome
+5.Get link login Jubelio
+6. Find element to automate login
+7. Find element to click login button
+
+
+8.Add delay time for 5 secs
+9.Find element to click "Barang" button
+10.Add delay time for 5 secs
+11.Find element to click "Persediaan" button
+12.Add delay time for 5 secs
+13.Find element to click "Penyesuaian Persediaan" button
